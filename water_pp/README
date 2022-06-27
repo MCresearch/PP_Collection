@@ -1,0 +1,2 @@
+The pseudo potential files here are used in the AIMD simulation of water with SCAN XC functional.
+The pseudo potentials are Hamann–Schlüter–Chiang–Vanderbilt (HSCV) functionals (D. Hamann, M. Schlüter, C. Chiang, Phys. Rev. Lett., 43 (20) (1979), p. 1494. D. Vanderbilt, Phys. Rev. B, 32 (12) (1985), p. 8412.), more of which can be found here: https://nninc.cnf.cornell.edu/dd_search.php?frmxcprox=&frmxctype=PBE&frmspclass=HSCV.
