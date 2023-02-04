@@ -1,3 +1,3 @@
-# PP_collection
-Pseudopotentials used in our group.
+# PPNAO_collection
+Pseudopotentials and Neumerical Atomic Orbitals used in our group.
 We mainly focus on the norm-conserving pseudopotentials.
